@@ -160,8 +160,15 @@ Choose from 4 classes with unique bonuses:
 ?explore desert              # Try new area (level 5+)
 ```
 
-## **Command Aliases**
-
+## **Command **
+```
+?char                         
+                     
+```
+```
+?inv                         
+                     
+```
 - **Character**: ```?char``` (short for character)
 - **Inventory**: ``` ?inv ``` (short for inventory)
 
